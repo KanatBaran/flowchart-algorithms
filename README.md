@@ -1,6 +1,6 @@
 # Flowchart Algorithms
 
-Bu depo, çeşitli temel algoritmaların akış diyagramlarını (flowchart) bir arada tutmak amacıyla oluşturulmuştur. Her bir alt klasörde, ilgili algoritmanın akış diyagramı yer almaktadır. Öğrenme ve referans amaçlı olarak kullanabilirsiniz.
+Bu depo, çeşitli temel algoritmaların akış diyagramlarını (flowchart) bir arada tutmak amacıyla oluşturulmuştur. Her bir alt klasörde, ilgili algoritmanın akış diyagramı yer almaktadır. Öğrenme ve referans amaçlı olarak kullanabilirsiniz. Üniversitede kendimi geliştirmek için yaptığım basit akış diyagramlarıdır.
 
 ## İçerik
 
