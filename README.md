@@ -13,3 +13,6 @@ Bu depo, çeşitli temel algoritmaların akış diyagramlarını (flowchart) bir
 | `kar-zarar-yuzdelik-olarak-hesaplama-flowchart-main` | Kar veya zararı yüzde olarak hesaplama                        |
 | `not-hesaplama-Flowchart-main`                       | Öğrenci notunu belirli kriterlere göre hesaplama              |
 | `girilen-sayilari-siralama-flowchart-main`           | Kullanıcıdan alınan sayıları küçükten büyüğe sıralama         |
+
+## Lisans
+Bu proje MIT Lisansı ile lisanslanmıştır.
